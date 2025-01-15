@@ -10,7 +10,7 @@
     "dev": "NODE_ENV=development nodemon node .bin/www"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.714.0",
+    "@aws-sdk/client-s3": "^3.717.0",
     "@prisma/client": "^6.1.0",
     "axios": "^1.7.9",
     "body-parser": "^1.20.1",
